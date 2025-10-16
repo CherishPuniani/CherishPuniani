@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Self-Supervised Learning, Diffusion Distillation and Adversarial attacks.**
 
-- 👯 I’m looking to collaborate on **anything interesting in the field, whether it be in CV research or cool aplications**
+- 👯 Open to collabs on **cool projects, whether it’s research in CV or just experimenting with fun applications.**
 
 - 📫 How to reach me **cherishpuniani2014@gmail.com**
 
